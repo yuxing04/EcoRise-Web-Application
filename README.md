@@ -89,7 +89,7 @@ ecorise-apu/
 5. Run the project in browser:
 
    ```
-   http://localhost/ecorise-apu
+   http://localhost/your file name
    ```
 
 ---
